@@ -7,5 +7,5 @@ __pycache__
 miniconda.sh
 .DS_Store*
 .vscode
-"input.csv"
-"output.csv"
+input.csv
+output.csv
