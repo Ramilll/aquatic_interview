@@ -1,0 +1,1 @@
+Station Name,Date,Min Temp,Max Temp,First Temp,Last Temp
