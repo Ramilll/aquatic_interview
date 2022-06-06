@@ -1,0 +1,2 @@
+Station Name,Measurement Timestamp,Air Temperature,Wet Bulb Temperature,Humidity,Rain Intensity,Interval Rain,Total Rain,Precipitation Type,Wind Direction,Wind Speed,Maximum Wind Speed,Barometric Pressure,Solar Radiation,Heading,Battery Life,Measurement Timestamp Label,Measurement ID
+63rd Street Weather Station,12/31/2016 11:00:00 PM,-1.3,-2.8,73,0,0,39.3,0,264,2.2,3.2,992.3,5,354,11.8,12/31/2016 11:00 PM,63rdStreetWeatherStation201612312300

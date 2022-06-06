@@ -1,0 +1,71 @@
+Station Name,Measurement Timestamp,Air Temperature,Wet Bulb Temperature,Humidity,Rain Intensity,Interval Rain,Total Rain,Precipitation Type,Wind Direction,Wind Speed,Maximum Wind Speed,Barometric Pressure,Solar Radiation,Heading,Battery Life,Measurement Timestamp Label,Measurement ID
+63rd Street Weather Station,01/01/2016 11:00:00 PM,-0.3,-1.9,72,0.0,0.0,6.7,0.0,272,4.0,6.1,996.5,5,354.0,11.9,01/01/2016 11:00 PM,63rdStreetWeatherStation201601012300
+Foster Weather Station,01/01/2016 11:00:00 PM,-1.0,,60,,0.0,,,252,3.5,3.8,995.9,0,,15.2,01/01/2016 11:00 PM,FosterWeatherStation201601012300
+Oak Street Weather Station,01/01/2016 11:00:00 PM,-0.1,-1.9,69,0.0,0.0,6.3,0.0,262,1.4,6.4,996.8,3,0.0,12.1,01/01/2016 11:00 PM,OakStreetWeatherStation201601012300
+63rd Street Weather Station,01/01/2016 10:00:00 PM,-0.7,-2.0,77,0.0,0.0,6.7,0.0,251,2.8,4.0,996.6,5,353.0,11.9,01/01/2016 10:00 PM,63rdStreetWeatherStation201601012200
+Foster Weather Station,01/01/2016 10:00:00 PM,-0.67,,63,,0.0,,,221,1.4,2.1,995.9,0,,14.8,01/01/2016 10:00 PM,FosterWeatherStation201601012200
+63rd Street Weather Station,01/01/2016 09:00:00 PM,-0.6,-1.8,78,0.0,0.0,6.7,0.0,233,3.4,5.2,996.6,5,353.0,11.8,01/01/2016 9:00 PM,63rdStreetWeatherStation201601012100
+Foster Weather Station,01/01/2016 09:00:00 PM,-0.67,,66,,0.0,,,224,3.5,3.9,995.9,0,,15.2,01/01/2016 9:00 PM,FosterWeatherStation201601012100
+63rd Street Weather Station,01/01/2016 08:00:00 PM,-0.3,-1.6,77,0.0,0.0,6.7,0.0,241,3.9,5.8,996.8,5,354.0,11.8,01/01/2016 8:00 PM,63rdStreetWeatherStation201601012000
+Foster Weather Station,01/01/2016 08:00:00 PM,-0.56,,65,,0.0,,,219,4.4,5.0,996.3,0,,15.2,01/01/2016 8:00 PM,FosterWeatherStation201601012000
+Oak Street Weather Station,01/01/2016 08:00:00 PM,0.5,-1.3,70,0.0,0.0,6.3,0.0,286,2.2,6.2,996.8,3,0.0,12.1,01/01/2016 8:00 PM,OakStreetWeatherStation201601012000
+63rd Street Weather Station,01/01/2016 07:00:00 PM,-0.5,-1.8,77,0.0,0.0,6.7,0.0,247,4.8,7.1,997.2,5,354.0,11.8,01/01/2016 7:00 PM,63rdStreetWeatherStation201601011900
+Foster Weather Station,01/01/2016 07:00:00 PM,-0.5,,63,,0.0,,,230,7.0,7.8,996.3,0,,15.2,01/01/2016 7:00 PM,FosterWeatherStation201601011900
+Oak Street Weather Station,01/01/2016 07:00:00 PM,0.4,-1.3,70,0.0,0.0,6.3,0.0,269,3.8,6.4,996.8,3,0.0,12.1,01/01/2016 7:00 PM,OakStreetWeatherStation201601011900
+63rd Street Weather Station,01/01/2016 06:00:00 PM,-1.0,-2.2,78,0.0,0.0,6.7,0.0,238,5.3,8.2,996.8,5,353.0,11.9,01/01/2016 6:00 PM,63rdStreetWeatherStation201601011800
+Foster Weather Station,01/01/2016 06:00:00 PM,-1.17,,69,,0.0,,,201,4.5,4.9,995.9,0,,14.8,01/01/2016 6:00 PM,FosterWeatherStation201601011800
+Oak Street Weather Station,01/01/2016 06:00:00 PM,-0.1,-1.7,72,0.0,0.0,6.3,0.0,272,4.6,8.9,996.8,3,359.0,12.1,01/01/2016 6:00 PM,OakStreetWeatherStation201601011800
+63rd Street Weather Station,01/01/2016 05:00:00 PM,-1.3,-2.6,76,0.0,0.0,6.7,0.0,242,5.0,8.4,997.3,5,354.0,11.9,01/01/2016 5:00 PM,63rdStreetWeatherStation201601011700
+Foster Weather Station,01/01/2016 05:00:00 PM,-1.67,,67,,0.0,,,230,5.0,6.1,996.6,0,,15.2,01/01/2016 5:00 PM,FosterWeatherStation201601011700
+Oak Street Weather Station,01/01/2016 05:00:00 PM,-0.6,-2.2,72,0.0,0.0,6.3,0.0,265,3.2,6.5,997.3,3,0.0,12.0,01/01/2016 5:00 PM,OakStreetWeatherStation201601011700
+63rd Street Weather Station,01/01/2016 04:00:00 PM,-1.5,-2.8,75,0.0,0.0,6.7,0.0,245,5.5,8.0,997.4,37,353.0,11.9,01/01/2016 4:00 PM,63rdStreetWeatherStation201601011600
+Foster Weather Station,01/01/2016 04:00:00 PM,-1.78,,67,,0.0,,,248,3.9,4.3,996.3,16,,14.8,01/01/2016 4:00 PM,FosterWeatherStation201601011600
+Oak Street Weather Station,01/01/2016 04:00:00 PM,-1.0,-2.5,73,0.0,0.0,6.3,0.0,278,3.8,8.5,997.1,16,0.0,12.0,01/01/2016 4:00 PM,OakStreetWeatherStation201601011600
+63rd Street Weather Station,01/01/2016 03:00:00 PM,-1.6,-2.9,75,0.0,0.0,6.7,0.0,250,5.7,9.0,997.4,99,353.0,11.9,01/01/2016 3:00 PM,63rdStreetWeatherStation201601011500
+Foster Weather Station,01/01/2016 03:00:00 PM,-2.0,,64,,0.0,,,269,6.1,6.5,996.3,175,,15.2,01/01/2016 3:00 PM,FosterWeatherStation201601011500
+Oak Street Weather Station,01/01/2016 03:00:00 PM,-1.1,-2.8,69,0.0,0.0,6.3,0.0,266,4.6,6.8,997.4,28,0.0,12.1,01/01/2016 3:00 PM,OakStreetWeatherStation201601011500
+63rd Street Weather Station,01/01/2016 02:00:00 PM,-1.9,-3.3,74,0.0,0.0,6.7,0.0,256,6.9,10.1,997.3,165,353.0,11.9,01/01/2016 2:00 PM,63rdStreetWeatherStation201601011400
+Foster Weather Station,01/01/2016 02:00:00 PM,-2.5,,66,,0.0,,,224,4.4,4.6,997.0,119,,15.2,01/01/2016 2:00 PM,FosterWeatherStation201601011400
+Oak Street Weather Station,01/01/2016 02:00:00 PM,-1.3,-3.1,70,0.0,0.0,6.3,0.0,301,1.9,4.5,997.7,108,0.0,12.1,01/01/2016 2:00 PM,OakStreetWeatherStation201601011400
+63rd Street Weather Station,01/01/2016 01:00:00 PM,-2.2,-3.6,73,0.0,0.0,6.7,0.0,269,8.1,13.7,997.7,147,353.0,11.9,01/01/2016 1:00 PM,63rdStreetWeatherStation201601011300
+Foster Weather Station,01/01/2016 01:00:00 PM,-2.56,,65,,0.05,,,263,1.9,2.7,997.0,208,,15.2,01/01/2016 1:00 PM,FosterWeatherStation201601011300
+Oak Street Weather Station,01/01/2016 01:00:00 PM,-1.9,-3.5,70,0.0,0.0,6.3,0.0,279,3.7,8.7,997.7,171,0.0,12.1,01/01/2016 1:00 PM,OakStreetWeatherStation201601011300
+63rd Street Weather Station,01/01/2016 12:00:00 PM,-2.7,-3.9,75,0.0,0.0,6.7,0.0,282,6.1,9.7,998.8,171,353.0,11.8,01/01/2016 12:00 PM,63rdStreetWeatherStation201601011200
+Foster Weather Station,01/01/2016 12:00:00 PM,-3.0,,65,,0.0,,,270,2.6,3.4,998.0,222,,14.8,01/01/2016 12:00 PM,FosterWeatherStation201601011200
+Oak Street Weather Station,01/01/2016 12:00:00 PM,-2.2,-3.8,70,0.0,0.0,6.3,0.0,313,1.2,5.1,998.7,171,0.0,12.1,01/01/2016 12:00 PM,OakStreetWeatherStation201601011200
+63rd Street Weather Station,01/01/2016 11:00:00 AM,-3.1,-4.3,74,0.0,0.0,6.7,0.0,272,7.8,10.7,999.6,104,353.0,11.9,01/01/2016 11:00 AM,63rdStreetWeatherStation201601011100
+Foster Weather Station,01/01/2016 11:00:00 AM,-3.56,,66,,0.0,,,282,5.2,5.8,999.0,103,,15.2,01/01/2016 11:00 AM,FosterWeatherStation201601011100
+Oak Street Weather Station,01/01/2016 11:00:00 AM,-2.4,-3.9,70,0.0,0.0,6.3,0.0,327,1.2,2.6,999.8,92,359.0,12.1,01/01/2016 11:00 AM,OakStreetWeatherStation201601011100
+63rd Street Weather Station,01/01/2016 10:00:00 AM,-3.3,-4.6,74,0.0,0.0,6.7,0.0,271,6.9,10.5,999.6,74,353.0,11.8,01/01/2016 10:00 AM,63rdStreetWeatherStation201601011000
+Foster Weather Station,01/01/2016 10:00:00 AM,-4.0,,67,,0.0,,,250,3.4,3.9,999.3,64,,15.2,01/01/2016 10:00 AM,FosterWeatherStation201601011000
+Oak Street Weather Station,01/01/2016 10:00:00 AM,-2.7,-4.2,70,0.0,0.0,6.3,0.0,302,1.6,4.3,1000.0,68,0.0,12.0,01/01/2016 10:00 AM,OakStreetWeatherStation201601011000
+63rd Street Weather Station,01/01/2016 09:00:00 AM,-3.7,-4.9,74,0.0,0.0,6.7,0.0,282,5.5,8.8,999.7,34,353.0,11.9,01/01/2016 9:00 AM,63rdStreetWeatherStation201601010900
+Foster Weather Station,01/01/2016 09:00:00 AM,-4.39,,66,,0.0,,,276,8.1,9.2,999.0,29,,15.2,01/01/2016 9:00 AM,FosterWeatherStation201601010900
+Oak Street Weather Station,01/01/2016 09:00:00 AM,-3.3,-4.8,70,0.0,0.0,6.3,0.0,299,2.5,4.9,999.8,38,359.0,12.1,01/01/2016 9:00 AM,OakStreetWeatherStation201601010900
+63rd Street Weather Station,01/01/2016 08:00:00 AM,-4.3,-5.5,74,0.0,0.0,6.7,0.0,269,7.0,10.2,999.0,19,353.0,11.9,01/01/2016 8:00 AM,63rdStreetWeatherStation201601010800
+Foster Weather Station,01/01/2016 08:00:00 AM,-5.06,,67,,0.0,,,252,2.8,3.1,998.6,12,,15.2,01/01/2016 8:00 AM,FosterWeatherStation201601010800
+Oak Street Weather Station,01/01/2016 08:00:00 AM,-3.8,-5.2,71,0.0,0.0,6.3,0.0,339,1.9,6.3,999.3,16,359.0,12.1,01/01/2016 8:00 AM,OakStreetWeatherStation201601010800
+63rd Street Weather Station,01/01/2016 07:00:00 AM,-5.1,-6.2,76,0.0,0.0,6.7,0.0,265,5.9,9.0,999.3,5,353.0,11.9,01/01/2016 7:00 AM,63rdStreetWeatherStation201601010700
+Foster Weather Station,01/01/2016 07:00:00 AM,-5.67,,68,,0.0,,,253,3.4,3.9,998.6,0,,15.2,01/01/2016 7:00 AM,FosterWeatherStation201601010700
+Oak Street Weather Station,01/01/2016 07:00:00 AM,-4.6,-5.9,72,0.0,0.0,6.3,0.0,294,1.4,5.3,999.4,4,0.0,12.1,01/01/2016 7:00 AM,OakStreetWeatherStation201601010700
+63rd Street Weather Station,01/01/2016 06:00:00 AM,-5.8,-6.8,76,0.0,0.0,6.7,0.0,271,7.1,12.6,999.1,5,353.0,11.9,01/01/2016 6:00 AM,63rdStreetWeatherStation201601010600
+Foster Weather Station,01/01/2016 06:00:00 AM,-6.39,,69,,0.0,,,286,5.9,6.3,998.3,0,,14.8,01/01/2016 6:00 AM,FosterWeatherStation201601010600
+Oak Street Weather Station,01/01/2016 06:00:00 AM,-5.2,-6.4,72,0.0,0.0,6.3,0.0,279,2.5,7.1,999.4,4,359.0,12.1,01/01/2016 6:00 AM,OakStreetWeatherStation201601010600
+63rd Street Weather Station,01/01/2016 05:00:00 AM,-6.3,-7.3,75,0.0,0.0,6.7,0.0,280,5.2,8.8,998.8,5,353.0,11.9,01/01/2016 5:00 AM,63rdStreetWeatherStation201601010500
+Foster Weather Station,01/01/2016 05:00:00 AM,-7.06,,69,,0.0,,,270,5.6,6.3,998.3,0,,15.2,01/01/2016 5:00 AM,FosterWeatherStation201601010500
+Oak Street Weather Station,01/01/2016 05:00:00 AM,-5.8,-7.0,71,0.0,0.0,6.3,0.0,306,3.0,5.1,999.0,4,359.0,12.1,01/01/2016 5:00 AM,OakStreetWeatherStation201601010500
+63rd Street Weather Station,01/01/2016 04:00:00 AM,-5.7,-6.9,72,0.0,0.0,6.7,0.0,276,7.7,10.3,998.9,5,353.0,11.9,01/01/2016 4:00 AM,63rdStreetWeatherStation201601010400
+Foster Weather Station,01/01/2016 04:00:00 AM,-7.0,,66,,0.0,,,265,5.4,6.0,998.3,0,,14.8,01/01/2016 4:00 AM,FosterWeatherStation201601010400
+Oak Street Weather Station,01/01/2016 04:00:00 AM,-5.5,-6.9,69,0.0,0.0,6.3,0.0,284,2.6,5.8,999.4,4,359.0,12.1,01/01/2016 4:00 AM,OakStreetWeatherStation201601010400
+63rd Street Weather Station,01/01/2016 03:00:00 AM,-5.1,-6.4,70,0.0,0.0,6.7,0.0,277,7.1,10.0,999.1,5,353.0,11.8,01/01/2016 3:00 AM,63rdStreetWeatherStation201601010300
+Foster Weather Station,01/01/2016 03:00:00 AM,-6.28,,64,,0.0,,,271,3.8,4.5,999.0,0,,14.8,01/01/2016 3:00 AM,FosterWeatherStation201601010300
+Oak Street Weather Station,01/01/2016 03:00:00 AM,-4.8,-6.3,67,0.0,0.0,6.3,0.0,297,1.6,7.1,999.7,4,359.0,12.0,01/01/2016 3:00 AM,OakStreetWeatherStation201601010300
+63rd Street Weather Station,01/01/2016 02:00:00 AM,-4.2,-5.5,71,0.0,0.0,6.7,0.0,261,6.2,9.8,999.6,5,354.0,11.9,01/01/2016 2:00 AM,63rdStreetWeatherStation201601010200
+Foster Weather Station,01/01/2016 02:00:00 AM,-5.5,,60,,0.0,,,247,2.5,3.1,999.0,0,,15.2,01/01/2016 2:00 AM,FosterWeatherStation201601010200
+Oak Street Weather Station,01/01/2016 02:00:00 AM,-4.0,-5.7,64,0.0,0.0,6.3,0.0,288,1.6,3.4,1000.0,4,359.0,12.1,01/01/2016 2:00 AM,OakStreetWeatherStation201601010200
+63rd Street Weather Station,01/01/2016 01:00:00 AM,-3.4,-4.8,72,0.0,0.0,6.7,0.0,273,6.4,9.4,999.9,5,353.0,11.9,01/01/2016 1:00 AM,63rdStreetWeatherStation201601010100
+Foster Weather Station,01/01/2016 01:00:00 AM,-4.56,,63,,0.0,,,290,5.9,6.6,999.3,0,,14.8,01/01/2016 1:00 AM,FosterWeatherStation201601010100
+Oak Street Weather Station,01/01/2016 01:00:00 AM,-3.2,-4.8,67,0.0,0.0,6.3,0.0,286,1.5,5.6,1000.0,4,359.0,12.0,01/01/2016 1:00 AM,OakStreetWeatherStation201601010100
+63rd Street Weather Station,01/01/2016 12:00:00 AM,-2.8,-4.4,69,0.0,0.0,6.7,0.0,255,3.8,6.4,1000.5,5,353.0,11.9,01/01/2016 12:00 AM,63rdStreetWeatherStation201601012400
+Foster Weather Station,01/01/2016 12:00:00 AM,-3.67,,62,,0.0,,,197,3.6,5.0,1000.0,0,,15.2,01/01/2016 12:00 AM,FosterWeatherStation201601012400
+Oak Street Weather Station,01/01/2016 12:00:00 AM,-2.3,-4.0,67,0.0,0.0,6.3,0.0,260,4.0,7.6,1000.5,3,359.0,12.1,01/01/2016 12:00 AM,OakStreetWeatherStation201601012400

@@ -1,0 +1,25 @@
+Station Name,Measurement Timestamp,Air Temperature,Wet Bulb Temperature,Humidity,Rain Intensity,Interval Rain,Total Rain,Precipitation Type,Wind Direction,Wind Speed,Maximum Wind Speed,Barometric Pressure,Solar Radiation,Heading,Battery Life,Measurement Timestamp Label,Measurement ID
+Foster Weather Station,01/01/2016 11:00:00 PM,-1.0,,60,,0.0,,,252,3.5,3.8,995.9,0,,15.2,01/01/2016 11:00 PM,FosterWeatherStation201601012300
+Foster Weather Station,01/01/2016 10:00:00 PM,-0.67,,63,,0.0,,,221,1.4,2.1,995.9,0,,14.8,01/01/2016 10:00 PM,FosterWeatherStation201601012200
+Foster Weather Station,01/01/2016 09:00:00 PM,-0.67,,66,,0.0,,,224,3.5,3.9,995.9,0,,15.2,01/01/2016 9:00 PM,FosterWeatherStation201601012100
+Foster Weather Station,01/01/2016 08:00:00 PM,-0.56,,65,,0.0,,,219,4.4,5.0,996.3,0,,15.2,01/01/2016 8:00 PM,FosterWeatherStation201601012000
+Foster Weather Station,01/01/2016 07:00:00 PM,-0.5,,63,,0.0,,,230,7.0,7.8,996.3,0,,15.2,01/01/2016 7:00 PM,FosterWeatherStation201601011900
+Foster Weather Station,01/01/2016 06:00:00 PM,-1.17,,69,,0.0,,,201,4.5,4.9,995.9,0,,14.8,01/01/2016 6:00 PM,FosterWeatherStation201601011800
+Foster Weather Station,01/01/2016 05:00:00 PM,-1.67,,67,,0.0,,,230,5.0,6.1,996.6,0,,15.2,01/01/2016 5:00 PM,FosterWeatherStation201601011700
+Foster Weather Station,01/01/2016 04:00:00 PM,-1.78,,67,,0.0,,,248,3.9,4.3,996.3,16,,14.8,01/01/2016 4:00 PM,FosterWeatherStation201601011600
+Foster Weather Station,01/01/2016 03:00:00 PM,-2.0,,64,,0.0,,,269,6.1,6.5,996.3,175,,15.2,01/01/2016 3:00 PM,FosterWeatherStation201601011500
+Foster Weather Station,01/01/2016 02:00:00 PM,-2.5,,66,,0.0,,,224,4.4,4.6,997.0,119,,15.2,01/01/2016 2:00 PM,FosterWeatherStation201601011400
+Foster Weather Station,01/01/2016 01:00:00 PM,-2.56,,65,,0.05,,,263,1.9,2.7,997.0,208,,15.2,01/01/2016 1:00 PM,FosterWeatherStation201601011300
+Foster Weather Station,01/01/2016 12:00:00 PM,-3.0,,65,,0.0,,,270,2.6,3.4,998.0,222,,14.8,01/01/2016 12:00 PM,FosterWeatherStation201601011200
+Foster Weather Station,01/01/2016 11:00:00 AM,-3.56,,66,,0.0,,,282,5.2,5.8,999.0,103,,15.2,01/01/2016 11:00 AM,FosterWeatherStation201601011100
+Foster Weather Station,01/01/2016 10:00:00 AM,-4.0,,67,,0.0,,,250,3.4,3.9,999.3,64,,15.2,01/01/2016 10:00 AM,FosterWeatherStation201601011000
+Foster Weather Station,01/01/2016 09:00:00 AM,-4.39,,66,,0.0,,,276,8.1,9.2,999.0,29,,15.2,01/01/2016 9:00 AM,FosterWeatherStation201601010900
+Foster Weather Station,01/01/2016 08:00:00 AM,-5.06,,67,,0.0,,,252,2.8,3.1,998.6,12,,15.2,01/01/2016 8:00 AM,FosterWeatherStation201601010800
+Foster Weather Station,01/01/2016 07:00:00 AM,-5.67,,68,,0.0,,,253,3.4,3.9,998.6,0,,15.2,01/01/2016 7:00 AM,FosterWeatherStation201601010700
+Foster Weather Station,01/01/2016 06:00:00 AM,-6.39,,69,,0.0,,,286,5.9,6.3,998.3,0,,14.8,01/01/2016 6:00 AM,FosterWeatherStation201601010600
+Foster Weather Station,01/01/2016 05:00:00 AM,-7.06,,69,,0.0,,,270,5.6,6.3,998.3,0,,15.2,01/01/2016 5:00 AM,FosterWeatherStation201601010500
+Foster Weather Station,01/01/2016 04:00:00 AM,-7.0,,66,,0.0,,,265,5.4,6.0,998.3,0,,14.8,01/01/2016 4:00 AM,FosterWeatherStation201601010400
+Foster Weather Station,01/01/2016 03:00:00 AM,-6.28,,64,,0.0,,,271,3.8,4.5,999.0,0,,14.8,01/01/2016 3:00 AM,FosterWeatherStation201601010300
+Foster Weather Station,01/01/2016 02:00:00 AM,-5.5,,60,,0.0,,,247,2.5,3.1,999.0,0,,15.2,01/01/2016 2:00 AM,FosterWeatherStation201601010200
+Foster Weather Station,01/01/2016 01:00:00 AM,-4.56,,63,,0.0,,,290,5.9,6.6,999.3,0,,14.8,01/01/2016 1:00 AM,FosterWeatherStation201601010100
+Foster Weather Station,01/01/2016 12:00:00 AM,-3.67,,62,,0.0,,,197,3.6,5.0,1000.0,0,,15.2,01/01/2016 12:00 AM,FosterWeatherStation201601012400

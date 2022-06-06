@@ -1,0 +1,2 @@
+Station Name,Date,Min Temp,Max Temp,First Temp,Last Temp
+Foster Weather Station,01/01/2016,-7.06,-0.5,-3.67,-1.0

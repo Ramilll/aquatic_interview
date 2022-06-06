@@ -1,0 +1,5 @@
+Station Name,Measurement Timestamp,Air Temperature,Wet Bulb Temperature,Humidity,Rain Intensity,Interval Rain,Total Rain,Precipitation Type,Wind Direction,Wind Speed,Maximum Wind Speed,Barometric Pressure,Solar Radiation,Heading,Battery Life,Measurement Timestamp Label,Measurement ID
+Foster Weather Station,01/01/2016 12:00:00 AM,-3.67,,62,,0,,,197,3.6,5,1000,0,,15.2,01/01/2016 12:00 AM,FosterWeatherStation201601012400
+Foster Weather Station,01/01/2016 01:00:00 AM,-4.56,,63,,0,,,290,5.9,6.6,999.3,0,,14.8,01/01/2016 1:00 AM,FosterWeatherStation201601010100
+Foster Weather Station,01/01/2016 02:00:00 AM,-5.5,,60,,0,,,247,2.5,3.1,999,0,,15.2,01/01/2016 2:00 AM,FosterWeatherStation201601010200
+Foster Weather Station,01/01/2016 03:00:00 AM,-6.28,,64,,0,,,271,3.8,4.5,999,0,,14.8,01/01/2016 3:00 AM,FosterWeatherStation201601010300
