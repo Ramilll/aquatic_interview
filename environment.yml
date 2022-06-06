@@ -9,5 +9,6 @@ dependencies:
   - humanfriendly=4.18
   - jupyter=1.0.0
   - pip
+  - pandas
   - pip:
     - pytest-watch==4.2.0

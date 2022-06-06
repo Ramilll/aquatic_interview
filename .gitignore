@@ -6,3 +6,6 @@ aquatic_interview_solution.patch
 __pycache__
 miniconda.sh
 .DS_Store*
+.vscode
+"input.csv"
+"output.csv"
